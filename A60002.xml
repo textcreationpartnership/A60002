@@ -1,0 +1,408 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saint Pauls potion prescribed by Doctor Commons, being very sicke of a dangerous fulnesse, with the great effects it wrought.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60002</idno>
+            <idno type="STC">Wing S350</idno>
+            <idno type="STC">ESTC R39484</idno>
+            <idno type="EEBO-CITATION">18421594</idno>
+            <idno type="OCLC">ocm 18421594</idno>
+            <idno type="VID">107561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1643:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Saint Pauls potion prescribed by Doctor Commons, being very sicke of a dangerous fulnesse, with the great effects it wrought.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: slightly faded, with print show-through.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Anecdotes</term>
+               <term>Satire, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107561:1"/>
+            <!-- PDF PAGE 6 -->
+            <pb facs="tcp:107561:1"/>
+            <!-- PDF PAGE 6 -->
+            <p>SAINT PAULS POTION, <hi>PRESCRIBED</hi> BY Doctor <hi>Commons, Being very ſicke of a dangerous</hi> FULNESSE. <hi>WITH</hi> The great effects it wrought.</p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:107561:2"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:107561:2"/>
+            <!-- PDF PAGE 7 -->
+            <head>Doctors Commons Potion preſcri<g ref="char:EOLhyphen"/>bed to <hi>Pauls Quire.</hi>
+            </head>
+            <sp>
+               <speaker>Doctors Commons.</speaker>
+               <p>
+                  <seg rend="decorInit">H</seg>OW doe you <hi>Pauls Quire?</hi> methinks that your countenance is much chan<g ref="char:EOLhyphen"/>ged? Why looke you ſo wan?</p>
+            </sp>
+            <sp>
+               <speaker>Pauls Quire.</speaker>
+               <p>Truly there is cauſe, ſince the ſweat hath ſo iſſued from both our ſides, to the ſo great fouling of our Surpli<g ref="char:EOLhyphen"/>ces, that the ſent thereof hath ſo much offended our curious Laundreſſes, they will not come neer to waſh them clean: no marvell then though we look wan?</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>But I know you are not well, you have ſome dangerous diſeaſe, therefore be adviſed, and look to it in time.</p>
+            </sp>
+            <sp>
+               <speaker>Pauls.</speaker>
+               <p>I pray you will you looke upon my water<g ref="char:punc">▪</g> ſee there it is, tell me your opinion by that.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Truly Sir, let me tell you, your water is very high and dangerous, you have a great diſtemper, you are very ill I ſee.</p>
+            </sp>
+            <sp>
+               <speaker>Pauls.</speaker>
+               <p>Indeed I have been much troubled of late; but I pray what doe you conceive to be the cauſe of my diſtemper?</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>You are troubled with a diſeaſe called <hi>Plenitude:</hi> the diſeaſe lieth much in the head, the
+<pb facs="tcp:107561:3"/>
+                  <!-- PDF PAGE 8 -->Archbiſhops, Biſhops<g ref="char:punc">▪</g> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But can you tell me what hath bred and nou<g ref="char:EOLhyphen"/>riſhed this diſeaſe in me?</p>
+            </sp>
+            <sp>
+               <speaker>Doct</speaker>
+               <p>It hath been cauſed by fulneſſe of bloud, a<g ref="char:EOLhyphen"/>b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unding al<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne over the other humours, as it did wh<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n three m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns bloud ſurcharged their ſtomackes, dropping from their eares in one day, as alſo by the increaſe of the four humours altogether in their pro<g ref="char:EOLhyphen"/>portion, which in your head were ſored to mighty violence.</p>
+            </sp>
+            <sp>
+               <speaker>Pauls.</speaker>
+               <p>What cauſed this diſorder in the humours ſo to b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und?</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>The cauſe ariſeth from pride and fulneſſe of bread, neglect, and omitting of exerciſes of the Mi<g ref="char:EOLhyphen"/>niſteriall function, and cloſing with Popery and Po<g ref="char:EOLhyphen"/>piſh rites: which diſeaſe hath increaſed by thoſe na<g ref="char:EOLhyphen"/>turall and artificiall vacuations which the ſaid Arch<g ref="char:EOLhyphen"/>biſhops, Biſhops &amp;c. have fomented and eſtabliſhed.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>What ſignes doe you ſee in mee of any ſuch diſeaſe?</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Your face and your eyes be ruddy; that is to ſay, your Pictures, Altar. Cop<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Candles, Bow<g ref="char:EOLhyphen"/>ings, &amp;c. looke not like, he eyes or face of a prote<g ref="char:EOLhyphen"/>ſtant Church: for even ſuch practices are this d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y at Rome.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>What other ſignes doe you ſee?</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Your veynes, that is to ſay, your Org<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n pipes, are ſwolne, the ſmalleſt veine whereof doth not become a Proteſtant Church, but rather the Iews Synagogues.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>What ſay you to my Pulſe? I pray you Do<g ref="char:EOLhyphen"/>ctor feele.</p>
+            </sp>
+            <pb facs="tcp:107561:3"/>
+            <!-- PDF PAGE 8 -->
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Your pulſe is great and vehement, whilſt all the life of your Religion conſiſts in dumb ſhewes and ceremonies.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I pray you tell mee what ſignes you finde in my water of this diſeaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>The diſeaſe is eaſily diſcerned by your urine, which is reddiſh and thicke, an infallible ſigne, procee<g ref="char:EOLhyphen"/>ding from your well fed body, daily full gorged with wi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e both French and Spaniſh.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Oh! Maſter Doctor, I am very full of paine<g ref="char:punc">▪</g> of a ſudden, the veines in my temples doe beat ex<g ref="char:EOLhyphen"/>treamly.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>That ariſeth from the nature of the diſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, eſpecially ſince your head is poſſeſt with ſuch a giddi<g ref="char:EOLhyphen"/>neſſe, Lambeth pillow lyes now very uneaſily.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I am very heavy, good Mr. Doctor preſcribe ſome<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing to comfort me.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>
+                  <list>
+                     <item>In the firſt place, you muſt remove away all Popery and Popiſh innovations from about you, that ſo you may freely and fully receive the Proteſtant aire<g ref="char:punc">▪</g> for that is very wholeſome.</item>
+                     <item>2. Remove away all infe<g ref="char:EOLhyphen"/>cted idolatrous perſons, and offices from about you.</item>
+                     <item>3. Remove the ſtinking ſent of all ſcandalous mem<g ref="char:EOLhyphen"/>bers out of their places.</item>
+                     <item>4. Avoyd all ſuch nouriſhing diet as may ſtrengthen Popery in you.</item>
+                     <item>5. Uſe. Ptiſan, mixt with nothing but what is gathered out of Gods word.</item>
+                     <item>6. Uſe Repentance, made up of cooling herbs.</item>
+                     <item>7. Avoyd wine and women and drinke onely the clear water of the well of life.</item>
+                     <item>8. Laſtly, exerciſe the word of God truly and conſtantly.</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But what will you preſcribe for the cure?</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>The cure muſt be begunne with blood letting
+<pb facs="tcp:107561:4"/>
+                  <!-- PDF PAGE 9 -->as loon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as may be; thou muſt have an experienced Chyrurgian to open the uttermoſt veine within the Arme, called Humeralis, on the High-commiſſion and ſpirituall Court ſide, for there the griefe is moſt vehement, this veine is ſo annexed to the head, the Biſhops, &amp;c. that by it you ſhall not only pull backe blood, into a contrary part, but you ſhall alſo empty out that by it, as ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith, <hi>Hippocrates, Galen, Rhaſes, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But alaſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, I am old, and weake, ſuch bleed<g ref="char:EOLhyphen"/>ing m<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y be dangerous to me.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Then you muſt have boxing glaſſes, which the Chyrurgion muſt uſe, not to your head it ſelfe only, but to the parts adjoyning, as the ſhoulders, and breſt, all upholders and maintainers of Popery, and Popiſh innovations.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But what phyſicke will you preſcribe me? was I not beſt to take a potion firſt?</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Let me ſee penne and inke and paper, and I will preſcribe a potion, and let it be ſent for to the A<g ref="char:EOLhyphen"/>pothecaries ſpeedily, that you may take it this mor<g ref="char:EOLhyphen"/>ning before I goe from you.</p>
+            </sp>
+            <div type="part">
+               <head>A Coppy of the Receipt.</head>
+               <p>Take of Gods threats againſt Idolatry, two dragms, and pick off as many flowers of the promiſes of the goſpell as you can finde, of each an handfull, with 12. dragmes of the ſplinters of the Biſhops laſt Canons, and halfe an ounce of their laſt articles, and a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it 3. ſcruples of the ſweat of a furious Proctors greaſe, and an ounce of the Paſtors fees: Add more 20. drops of the teares of oppreſſed Cly<g ref="char:EOLhyphen"/>ents,
+<pb facs="tcp:107561:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 9 -->&amp;3. ſcruples of a Lambs tongue, with 2. Ducks feathers chopt very ſmall, and the fragments of an old Record; put all theſe together into an Organe pipe, and ſeeth them in a ſufficient quantity of the water of repentance, untill the greateſt part be con<g ref="char:EOLhyphen"/>ſumed; then ſtraine it all through a Biſhops lawne ſleeves, and preſſe it hard; adde to the decoction as much of a Lent Licence, as will ſerve to ſweeten it, then purifie it with the white of a Ducke egge, and make a potion.</p>
+               <sp>
+                  <speaker>Paul.</speaker>
+                  <p>I have taken the potion M<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>  D<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctor, but it makes me monſtrous ſick.</p>
+               </sp>
+               <sp>
+                  <speaker>Doct.</speaker>
+                  <p>Walke upon it, it will worke by and by.</p>
+               </sp>
+               <sp>
+                  <speaker>Paul.</speaker>
+                  <p>Oh, M. Doctor hold my head, ſomething comes up; what is it?</p>
+               </sp>
+               <sp>
+                  <speaker>Doct.</speaker>
+                  <p>A great wax-candle, it is well, hold your head ſtill it may be ſomething elſe will follow.</p>
+               </sp>
+               <sp>
+                  <speaker>Paul.</speaker>
+                  <p>Oh! ſomething comes that will kill mee I doubt; it ſticks by my ribbs, I thinke, and will not come away; oh, it's almoſt up now, hold my head hard I pray you; ſo now it is up, I am glad of it; what is it?</p>
+               </sp>
+               <sp>
+                  <speaker>Doct.</speaker>
+                  <p>A great Altar pend about with Railes, the ſtrangeſt vomit that ever I ſaw before.</p>
+               </sp>
+               <sp>
+                  <speaker>Paul</speaker>
+                  <p>Oh! hold me, hold me, helpe good M. Doctor; ſomething ſticks in my throat, oh th<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t it weere puld away; pull oh pull hard, I am almoſt d<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad with it; ſoe, now it is almoſt up, one pull more doth it; ſo, I am glad it is up, it hath eaſed mee well, what was it M. Doctor?</p>
+               </sp>
+               <sp>
+                  <speaker>Doct.</speaker>
+                  <p>See here what it is, a great bundle of golden Copes rapt up in linnen Surplices, no marvel though
+<pb facs="tcp:107561:5"/>
+                     <!-- PDF PAGE 10 -->they were ſo troubleſome to you to bring them up.</p>
+               </sp>
+               <sp>
+                  <speaker>Paul.</speaker>
+                  <p>There is ſomething yet that rumbles in my ſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mack<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, I would it were up; it ſtirres as if it were a<g ref="char:EOLhyphen"/>live.</p>
+               </sp>
+               <sp>
+                  <speaker>Doct.</speaker>
+                  <p>Strive with it doe what you can, it will not ſtay, I ſee the Potion works well, and will trouble you, feare not; ſo well done, ſee what it is, a Muſi<g ref="char:EOLhyphen"/>tian wi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h an organe pipe, it is well it is up; how doe you now?</p>
+               </sp>
+               <sp>
+                  <speaker>Paul.</speaker>
+                  <p>A great deale b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tter methinks then I was, but very ſoare and weary with ſtraining, may I not now lye downe, and ſl<gap reason="illegible: missing" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pe a while?</p>
+               </sp>
+               <sp>
+                  <speaker>Doct.</speaker>
+                  <p>Yes by and by, but I wou<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d adviſe you to ſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y a little; I muſt crave leave of you to dep<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a while, I will be with you againe preſently, in the me<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> I pray you have a care of your ſelf<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> other be alwaies by you to looke well to y<gap reason="illegible: missing" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Paul.</speaker>
+                  <p>I thanke you M. Doctor; I pray be no<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> long from me.</p>
+               </sp>
+               <sp>
+                  <speaker>Doct.</speaker>
+                  <p>I will not, Sir, God willing; fare you well.</p>
+               </sp>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:107561:6"/>
+               <!-- PDF PAGE 11 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
